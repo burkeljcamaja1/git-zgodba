@@ -20,5 +20,3 @@ inhibit-stiridva
    - `git push origin master`
 10. Oglejte si, kako izgledajo datoteke na strežniku.
 	Ali so se pojavila kakšna dodatna navodila?
-
-42
